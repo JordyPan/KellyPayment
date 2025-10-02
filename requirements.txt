@@ -1,10 +1,7 @@
-txt
-
-base64
 math
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 datetime
 timedelta
 fpdf
