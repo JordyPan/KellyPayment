@@ -1,0 +1,11 @@
+txt
+
+base64
+math
+streamlit
+pandas
+matplotlib.pyplot
+datetime
+timedelta
+fpdf
+FPDF
